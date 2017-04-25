@@ -5,4 +5,9 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="divider">#ffd2d2d2</color>
+
+    <color name="av_text_color">#000000</color>
+    <color name="av_btn_color">#000000</color>
+    <dimen name="av_text_size">14dp</dimen>
+    <dimen name="av_btn_size">14dp</dimen>
 </resources>
