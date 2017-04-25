@@ -12,6 +12,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 
+import com.tinylight.demo.amountview.R;
+
 /**
  * 自定义组件：购买数量，带减少增加按钮
  * Created by hiwhitley on 2016/7/4.
