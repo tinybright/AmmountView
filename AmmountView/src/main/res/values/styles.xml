@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="av_text">
+        <item name="android:textColor">@color/av_text_color</item>
+        <item name="android:textSize">@dimen/av_text_size</item>
+    </style>
+    <style name="av_btn">
+        <item name="android:textColor">@color/av_btn_color</item>
+        <item name="android:textSize">@dimen/av_btn_size</item>
+    </style>
 </resources>
