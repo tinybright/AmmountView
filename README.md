@@ -1,5 +1,5 @@
 [![](https://jitpack.io/v/tinybright/AmmountView.svg)](https://jitpack.io/#tinybright/AmmountView)
-# AmmountView
+# AmountView
 商品数量 加减
 
 ## jitpack.io
